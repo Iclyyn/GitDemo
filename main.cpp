@@ -29,7 +29,8 @@ int GetDeduction(int status) {
    }
    else {
       deduction = 6000;
-   }
+     }
+  //burger
    return deduction;
 }
 
